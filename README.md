@@ -6,11 +6,11 @@
 
 I'm a passionate developer with a love for learning and building projects. I enjoy working with various programming languages and exploring new technologies.
 
-- 🔭 I’m currently working on [your current project name].
+- 🔭 I’m currently working on a project for fun 
 - 🌱 I’m currently learning [what you're currently learning].
 - 👯 I’m looking to collaborate on [projects you want to collaborate on].
 - 💬 Ask me about [topics you're knowledgeable about].
-- 📫 How to reach me: [your email or social media links].
+- 📫 How to reach me: aruldev@gmai.com.
 - ⚡ Fun fact: [a fun fact about you].
 
 ## Languages and Tools
