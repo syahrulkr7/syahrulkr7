@@ -98,3 +98,15 @@
 <br />
 <hr>
 
+<!-- Contribution Snake -->
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/syahrulkr7/syahrulkr7/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/images/footer.png" alt="footer"/>
+</div>
