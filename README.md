@@ -1,184 +1,100 @@
-# <div align="center">👋 Hello World, I'm Syahrul!</div>
-
+<!-- Profil Header dengan Animasi Nama -->
 <div align="center">
-  
-  ![Animated Banner](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Creative+Thinker;Code+Artisan)
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=41B883&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Syahrul+K+R" alt="Typing SVG" />
+  </a>
 </div>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=syahrulkr7&color=blueviolet&style=flat-square)
-  ![GitHub Followers](https://img.shields.io/github/followers/syahrulkr7?color=blue&style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/syahrulkr7?color=gold&style=social)
-  
-</div>
-
-## <div align="center">🌟 About Me</div>
+<h3 align="center">A Passionate Full-Stack Developer from Indonesia</h3>
 
 <div align="center">
-  
-  ```javascript
-  const syahrul = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Styled-Components", "SASS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "AWS", "CI/CD"],
-        mobile: ["React Native"]
-    },
-    architecture: ["Microservices", "Serverless", "SPA"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I can solve Rubik's cube while debugging code! 🎯"
-  };
-  ```
-  
+  <img src="https://komarev.com/ghpvc/?username=syahrulkr7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="syahrulkr7" />
 </div>
 
-## <div align="center">🛠 Tech Stack</div>
+<br />
 
+<!-- Tentang Saya -->
 <div align="center">
-
-### 💻 **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 🌐 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🚀 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🛠 **Tools & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657f2c7.gif" width="300">
 </div>
 
-## <div align="center">📊 GitHub Analytics</div>
+<br />
 
-<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Turning+ideas+into+elegant+code.;Lifelong+learner.;Building+the+future,+one+line+at+a+time." alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/syahrulkr7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syahrulkr7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrulkr7&layout=compact&langs_count=8&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF"/>
-</a>
+<br />
+<hr>
 
-<!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=syahrulkr7&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=7F3FBF&fire=7F3FBF&currStreakNum=7F3FBF)](https://git.io/streak-stats)
+<!-- Kontak Saya -->
+<h2 align="center">🤝 Connect With Me</h2>
+<p align="center">
+  <a href="https://wa.me/6285872338969" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/syahrulkr7" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:syahrulkr5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<!-- Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syahrulkr7&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br />
+<hr>
 
-</div>
+<!-- Keahlian & Tools -->
+<h2 align="center">⚙️ Skills & Tools</h2>
 
-## <div align="center">🎯 Current Focus</div>
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+</p>
 
-<div align="center">
+<h3 align="center">Backend Development</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+</p>
 
-```python
-class CurrentFocus:
-    def __init__(self):
-        self.projects = [
-            "Building scalable microservices",
-            "Learning advanced cloud architecture",
-            "Contributing to open source"
-        ]
-        self.learning = [
-            "AWS Certified Solutions Architect",
-            "Advanced System Design",
-            "Machine Learning Fundamentals"
-        ]
-    
-    def get_motto(self):
-        return "Code with passion, deploy with precision 🚀"
-```
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+</p>
 
-</div>
+<h3 align="center">Tools & Others</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
 
-## <div align="center">📫 Let's Connect</div>
+<br />
+<hr>
 
-<div align="center">
+<!-- GitHub Stats -->
+<h2 align="center">📊 My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syahrulkr7&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="syahrulkr7" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syahrulkr7&theme=midnight-purple&hide_border=true" alt="syahrulkr7" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syahrulkr7&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="syahrulkr7" />
+</p>
 
-<!-- Contact Section with Animated Icons -->
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=085872338969)](https://wa.me/6285872338969)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=@__sxyzz)](https://www.instagram.com/__sxyzz?igsh=MXAzZXV2dGpwZHB2MA==)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=syahrulkr5@gmail.com)](mailto:syahrulkr5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syahrulkr7)
-
-</div>
-
-## <div align="center">🚀 Featured Projects</div>
-
-<div align="center">
-
-<!-- Project Cards -->
-| 🎯 **Project** | 🛠 **Tech Stack** | 📝 **Description** |
-|:--------------:|:-----------------:|:------------------:|
-| **[E-Commerce Platform](https://github.com/syahrulkr7/ecommerce)** | React, Node.js, MongoDB | Full-stack e-commerce solution with real-time inventory |
-| **[Task Management App](https://github.com/syahrulkr7/task-manager)** | Vue.js, Express, PostgreSQL | Collaborative task management with real-time updates |
-| **[Weather Dashboard](https://github.com/syahrulkr7/weather-app)** | Next.js, TypeScript, Tailwind | Beautiful weather application with analytics |
-
-</div>
-
-## <div align="center">🎵 Coding Vibes</div>
-
-<div align="center">
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)
-
-</div>
-
-## <div align="center">📈 Contribution Metrics</div>
-
-<div align="center">
-
-<!-- Metrics -->
-![Metrics](https://metrics.lecoq.io/syahrulkr7?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta)
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 **"Turning coffee into code, one commit at a time."** 💫
-
-⭐ **From [syahrulkr7](https://github.com/syahrulkr7) with ❤️**
-
-![Snake animation](https://github.com/syahrulkr7/syahrulkr7/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting my profile! Have a great day!** ✨
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-</div>
+<br />
+<hr>
 
