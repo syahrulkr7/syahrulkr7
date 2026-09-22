@@ -1,112 +1,174 @@
-<!-- Profil Header dengan Animasi Nama -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=41B883&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+Syahrul+K+R" alt="Typing SVG" />
-  </a>
+
+# Hi, I'm Syahrul M
+
+**Web Developer in progress — building useful things while learning one line of code at a time.**
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Indonesia-1f2937?style=flat-square&labelColor=0b0f19&color=22d3ee" alt="Location: Indonesia" />
+  <img src="https://img.shields.io/badge/Role-Web%20Developer-1f2937?style=flat-square&labelColor=0b0f19&color=6366f1" alt="Role: Web Developer" />
+  <img src="https://img.shields.io/badge/Focus-JavaScript-1f2937?style=flat-square&labelColor=0b0f19&color=facc15" alt="Focus: JavaScript" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Learn-1f2937?style=flat-square&labelColor=0b0f19&color=10b981" alt="Status: Open to Learning" />
+</p>
+
 </div>
 
-<h3 align="center">A Passionate Full-Stack Developer from Indonesia</h3>
+---
+
+## About Me
+
+I'm a developer from Indonesia currently focused on building my skills in web development — particularly around frontend, JavaScript, and clean user interfaces.
+
+- Building real web applications instead of just following tutorials
+- Interested in responsive UI and simple, usable design
+- Exploring JavaScript, APIs, and modern web tooling
+- Learning by shipping projects, then improving them
+- Open to collaboration and learning with others
+
+I don't claim to be an expert — I'm simply someone who enjoys the process of building, breaking, and fixing things.
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+**Currently Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-0b0f19?style=flat-square&color=6b7280" alt="REST API" />
+  <img src="https://img.shields.io/badge/Backend-0b0f19?style=flat-square&color=6b7280" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/Database-0b0f19?style=flat-square&color=6b7280" alt="Database" />
+  <img src="https://img.shields.io/badge/Auth-0b0f19?style=flat-square&color=6b7280" alt="Authentication" />
+  <img src="https://img.shields.io/badge/Deployment-0b0f19?style=flat-square&color=6b7280" alt="Deployment" />
+</p>
+
+---
+
+## Featured Projects
+
+### Aruna Finance
+Personal finance management application built with a multi-user architecture.
+
+- Multi-user architecture with authentication
+- Transaction and budget management
+- Financial dashboard with clear overview
+- Responsive interface for mobile and desktop
+
+`Status:` In development · `Repository:` [Repository Link]
+
+---
+
+### ArunaLink
+A file upload and sharing platform focused on simplicity.
+
+- Public file links for easy sharing
+- Upload management
+- Responsive interface
+- API and backend integration
+
+`Status:` In development · `Repository:` [Repository Link]
+
+---
+
+### Quick Edit
+Browser-based image editor for quick, everyday edits.
+
+- Image upload directly in the browser
+- Crop and rotate
+- Filters and adjustments
+- Export to image file
+
+`Status:` In development · `Repository:` [Repository Link]
+
+---
+
+## What I'm Building
+
+- [x] Responsive web interfaces
+- [x] Personal finance applications
+- [ ] File hosting and sharing systems
+- [ ] Image editing tools
+- [ ] Link-in-bio platforms
+- [ ] API-powered web applications
+- [ ] Useful everyday web utilities
+
+---
+
+## Development Philosophy
+
+I try to keep things simple and practical. Every project I build should be:
+
+- **Functional** — working features matter more than a pretty screen
+- **Responsive** — usable on mobile, tablet, and desktop
+- **Reliable** — with proper validation and error handling
+- **Safe** — mindful about user data
+- **Clear** — simple UI that people can figure out without a manual
+- **User-first** — designed around real usage, not trends
+- **Iterative** — improved over time as I learn
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=syahrulkr7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="syahrulkr7" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=[GITHUB_USERNAME]&theme=tokyonight&hide_border=true&background=0b0f19" alt="Contribution Streak" />
+
 </div>
 
-<br />
+---
 
-<!-- Tentang Saya -->
+## Currently Learning
+
+- [x] HTML & CSS
+- [x] JavaScript fundamentals
+- [x] Responsive Web Design
+- [x] Tailwind CSS
+- [ ] Advanced JavaScript
+- [ ] Backend Development
+- [ ] Database
+- [ ] Authentication
+- [ ] REST API Architecture
+- [ ] Deployment & DevOps
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="[GITHUB_URL]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="[INSTAGRAM_URL]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="[LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657f2c7.gif" width="300">
-</div>
 
-<br />
+*Building, learning, breaking things, fixing them, and learning again.*
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Turning+ideas+into+elegant+code.;Lifelong+learner.;Building+the+future,+one+line+at+a+time." alt="Typing SVG" />
-  </a>
-</p>
+**© 2026 Syahrul M**
 
-<br />
-<hr>
-
-<!-- Kontak Saya -->
-<h2 align="center">🤝 Connect With Me</h2>
-<p align="center">
-  <a href="https://wa.me/6285872338969" target="blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://instagram.com/syahrulkr7" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:syahrulkr5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<br />
-<hr>
-
-<!-- Keahlian & Tools -->
-<h2 align="center">⚙️ Skills & Tools</h2>
-
-<h3 align="center">Frontend Development</h3>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Backend Development</h3>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Tools & Others</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
-
-<br />
-<hr>
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syahrulkr7&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="syahrulkr7" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syahrulkr7&theme=midnight-purple&hide_border=true" alt="syahrulkr7" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syahrulkr7&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="syahrulkr7" />
-</p>
-
-<br />
-<hr>
-
-<!-- Contribution Snake -->
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/syahrulkr7/syahrulkr7/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
-<br>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/images/footer.png" alt="footer"/>
 </div>
